@@ -10,7 +10,7 @@ You can generate basic or fully customized QR codes with just a few lines of cod
 First, install the required library:
 
 ```bash
-pip install qrcode[pil]
+pip install qrcode
 ```
 
 ---
